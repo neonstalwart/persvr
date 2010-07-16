@@ -1,0 +1,54 @@
+[submodule "packages/commonjs-utils"]
+	path = packages/commonjs-utils
+	url = http://github.com/kriszyp/commonjs-utils.git
+[submodule "packages/jack"]
+	path = packages/jack
+	url = http://github.com/kriszyp/jack.git
+[submodule "packages/jsgi-node"]
+	path = packages/jsgi-node
+	url = http://github.com/kriszyp/jsgi-node.git
+[submodule "packages/multi-node"]
+	path = packages/multi-node
+	url = http://github.com/kriszyp/multi-node.git
+[submodule "packages/narcissus"]
+	path = packages/narcissus
+	url = http://github.com/tlrobinson/narcissus.git
+[submodule "packages/narwhal"]
+	path = packages/narwhal
+	url = http://github.com/kriszyp/narwhal.git
+[submodule "packages/nodules"]
+	path = packages/nodules
+	url = http://github.com/kriszyp/nodules.git
+[submodule "packages/patr"]
+	path = packages/patr
+	url = http://github.com/kriszyp/patr.git
+[submodule "packages/persevere"]
+	path = packages/persevere
+	url = http://github.com/kriszyp/persevere.git
+[submodule "packages/perstore"]
+	path = packages/perstore
+	url = http://github.com/kriszyp/perstore.git
+[submodule "packages/pintura"]
+	path = packages/pintura
+	url = http://github.com/kriszyp/pintura.git
+[submodule "packages/promised-io"]
+	path = packages/promised-io
+	url = http://github.com/kriszyp/promised-io.git
+[submodule "packages/rql"]
+	path = packages/rql
+	url = http://github.com/kriszyp/rql.git
+[submodule "packages/transporter"]
+	path = packages/transporter
+	url = http://github.com/kriszyp/transporter.git
+[submodule "packages/tunguska"]
+	path = packages/tunguska
+	url = http://github.com/kriszyp/tunguska.git
+[submodule "packages/wiky"]
+	path = packages/wiky
+	url = http://github.com/kriskowal/wiky.git
+[submodule "example"]
+	path = example
+	url = http://github.com/kriszyp/persevere-example-wiki.git
+[submodule "template"]
+	path = template
+	url = http://github.com/kriszyp/persevere-template.git
